@@ -1,3 +1,4 @@
+![Banner](assets/images/banner.png)
 
 
 # 💫 About Me
