@@ -1,5 +1,4 @@
 ![banner](assets/images/banner.png)
-<p><img src="Assets/github-header-banner.png" alt="Misha Shetty"></p>
 
 # 💫 About Me
 
